@@ -1,0 +1,8 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo" loaded="loaded">
+  <WrapLayout>
+   <!-- <Label text="Tap the button" class="title"/>-->
+   <!--<Image src="res://walnuss_geschlossen" stretch="none" horizontalAlignment="center" />-->
+    <Button text="Öffne!" tap="{{ onTap }}"  />
+    <!--<Label text="{{ message }}" class="message" textWrap="true"/>-->
+  </WrapLayout>
+</Page>

@@ -1,0 +1,27 @@
+﻿@import { url('~/platform.css') };
+
+.title {
+    font-size: 30;
+    horizontal-align: center;
+    margin: 20;
+}
+
+button {
+    font-size: 42;
+    horizontal-align: center;
+    width: 566px;
+    height: 704px;
+    vertical-align: center;
+    /*border-radius: 80;*/
+    background-image: url("res://walnuss_geschlossen") ;
+    background-size: cover;
+    /*border-radius:100;*/
+}
+
+.message {
+    font-size: 20;
+    color: #284848;
+    horizontal-align: center;
+    margin: 0 20;
+    text-align: center;
+}

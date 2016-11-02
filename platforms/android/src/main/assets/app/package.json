@@ -1,0 +1,89 @@
+{
+  "name": "tns-template-hello-world",
+  "main": "app.js",
+  "version": "2.3.0",
+  "author": {
+    "name": "Telerik",
+    "email": "support@telerik.com"
+  },
+  "description": "Nativescript hello-world project template",
+  "license": "Apache-2.0",
+  "keywords": [
+    "telerik",
+    "mobile",
+    "nativescript",
+    "{N}",
+    "tns",
+    "appbuilder",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NativeScript/template-hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NativeScript/template-hello-world/issues"
+  },
+  "homepage": "https://github.com/NativeScript/template-hello-world",
+  "android": {
+    "v8Flags": "--expose_gc"
+  },
+  "_id": "tns-template-hello-world@2.3.0",
+  "_shasum": "8d62e415f775e89316e75c00a9ad6b1c2a88f2fd",
+  "_resolved": "https://registry.npmjs.org/tns-template-hello-world/-/tns-template-hello-world-2.3.0.tgz",
+  "_from": "tns-template-hello-world@latest",
+  "scripts": {},
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.4.0",
+  "_npmUser": {
+    "name": "hdeshev",
+    "email": "hristo@deshev.com"
+  },
+  "dist": {
+    "shasum": "8d62e415f775e89316e75c00a9ad6b1c2a88f2fd",
+    "tarball": "https://registry.npmjs.org/tns-template-hello-world/-/tns-template-hello-world-2.3.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "enchev",
+      "email": "vladimir.enchev@gmail.com"
+    },
+    {
+      "name": "erjangavalji",
+      "email": "erjan.gavalji@gmail.com"
+    },
+    {
+      "name": "fatme",
+      "email": "hfatme@gmail.com"
+    },
+    {
+      "name": "hdeshev",
+      "email": "hristo@deshev.com"
+    },
+    {
+      "name": "ligaz",
+      "email": "stefan.dobrev@gmail.com"
+    },
+    {
+      "name": "nsndeck",
+      "email": "nedyalko.nikolov@telerik.com"
+    },
+    {
+      "name": "sdobrev",
+      "email": "stefan.dobrev@gmail.com"
+    },
+    {
+      "name": "tailsu",
+      "email": "tailsu@gmail.com"
+    },
+    {
+      "name": "valio.stoychev",
+      "email": "valio.stoychev@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/tns-template-hello-world-2.3.0.tgz_1473939245833_0.0155592137016356"
+  },
+  "directories": {}
+}

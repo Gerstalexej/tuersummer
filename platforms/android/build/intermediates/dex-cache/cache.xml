@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-23.4.0_4f49a7c90d1e8f1a429a62081869e9cb50582242.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-23.4.0_d6b4dc8912d22567521b2a4e06f682522d2ba708.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\exploded-aar\tuersummer\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4290aba11bda501dbadc2dd5c4b08282c0bbfeb8">
+        <dex dex="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_af9d9629363be4c733bac011689ddd12b71f7c8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexej Gerstmaier\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-23.4.0_031e8f90b208544bc0e82dc8e817440634410bcc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-23.4.0_4934b379a893326ac07f9d291ab44946b5d3d047.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-23.4.0_5207cadffc5dc55913c2182f4277478ce496316b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_7bb7f02f8613955af67214bf737c4eb50e13ba27.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f3064a6bb3bf091d8ef08a38816df98e4c033ce2">
+        <dex dex="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_35416294cde038e2dc01523dbf9e80d6ca63c40d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\exploded-aar\tuersummer\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="C:\Users\Alexej Gerstmaier\Organized\Tuersummer\code\tuersummer\platforms\android\build\intermediates\pre-dexed\F0\debug\tuersummer-runtime-unspecified_9bda4b85a3c91dc765df99c552dd795ee8e3ae9c.jar" />
+    </item>
+
+</items>

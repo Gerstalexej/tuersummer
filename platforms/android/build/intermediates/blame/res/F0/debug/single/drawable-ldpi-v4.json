@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Alexej Gerstmaier\\Organized\\Tuersummer\\code\\tuersummer\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\background.png",
+        "source": "C:\\Users\\Alexej Gerstmaier\\Organized\\Tuersummer\\code\\tuersummer\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexej Gerstmaier\\Organized\\Tuersummer\\code\\tuersummer\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\walnuss_offen.png",
+        "source": "C:\\Users\\Alexej Gerstmaier\\Organized\\Tuersummer\\code\\tuersummer\\platforms\\android\\src\\main\\res\\drawable-ldpi\\walnuss_offen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexej Gerstmaier\\Organized\\Tuersummer\\code\\tuersummer\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "C:\\Users\\Alexej Gerstmaier\\Organized\\Tuersummer\\code\\tuersummer\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexej Gerstmaier\\Organized\\Tuersummer\\code\\tuersummer\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\walnuss_geschlossen.png",
+        "source": "C:\\Users\\Alexej Gerstmaier\\Organized\\Tuersummer\\code\\tuersummer\\platforms\\android\\src\\main\\res\\drawable-ldpi\\walnuss_geschlossen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexej Gerstmaier\\Organized\\Tuersummer\\code\\tuersummer\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\walnuss_geschlossen_push.png",
+        "source": "C:\\Users\\Alexej Gerstmaier\\Organized\\Tuersummer\\code\\tuersummer\\platforms\\android\\src\\main\\res\\drawable-ldpi\\walnuss_geschlossen_push.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexej Gerstmaier\\Organized\\Tuersummer\\code\\tuersummer\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Alexej Gerstmaier\\Organized\\Tuersummer\\code\\tuersummer\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]
